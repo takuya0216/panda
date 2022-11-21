@@ -8,6 +8,7 @@ from tkinter import *
 from tkinter.ttk import *
 from tkinter import messagebox
 import time
+
 from panda import panda
 from logmanager import logManager as LM
 from panda_value import *
